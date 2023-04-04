@@ -1,2 +1,2 @@
-# Python
-It's a detailed study of tuples , set , dictionary and list in python
+# DATA SCIENCE MASTERS
+This is my data science respository where i will be sharing all my learnings 
